@@ -1,0 +1,3 @@
+function arrayLowerCase(arr) {
+  // return array of strings in lowercase
+}
